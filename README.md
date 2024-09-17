@@ -12,3 +12,4 @@ Este projeto foi desenvolvido usando apenas:
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6+)**
+- API REST
