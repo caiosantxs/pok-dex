@@ -80,12 +80,12 @@ buttonNext.addEventListener('click', () => {
 
 shinyButton.addEventListener('mousedown', () => {
   isShiny = true;
-  renderPokemon(searchPokemon); // Re-render with shiny flag
+  renderPokemon(searchPokemon); 
 });
 
 shinyButton.addEventListener('mouseup', () => {
   isShiny = false;
-  renderPokemon(searchPokemon); // Re-render with normal flag
+  renderPokemon(searchPokemon); 
 });
 
 renderPokemon(searchPokemon);
